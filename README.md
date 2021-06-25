@@ -13,15 +13,15 @@ En primer lugar, se investigó qué parámetros se deberían monitorizar para ob
 
 En segundo lugar, se diseñó el dispositivo basando su funcionamiento en 3 módulos:
 
-##### + Módulo de adquisición de datos
++ Módulo de adquisición de datos
 
 ​	Este módulo está compuesto por un Arduino UNO, un Arduino Nano IOT 33 y los distintos sensores.
 
-###### + Módulo de gestión de datos
++ Módulo de gestión de datos
 
 ​	Formado por una Raspberry Pi 4.
 
-###### + Módulo de visualización de datos
++ Módulo de visualización de datos
 
 ​	Visualización de datos a través de un navegador web o aplicación móvil.
 
