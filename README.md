@@ -14,10 +14,10 @@ En primer lugar, se investigó qué parámetros se deberían monitorizar para ob
 En segundo lugar, se diseñó el dispositivo basando su funcionamiento en 3 módulos:
 
 + Módulo de adquisición de datos: Este módulo está compuesto por un Arduino UNO, un Arduino Nano IOT 33 y los distintos sensores.
-
 + Módulo de gestión de datos: Formado por una Raspberry Pi 4 que será la que administre y almacene los datos.
-
 + Módulo de visualización de datos: Visualización de datos a través de un navegador web o aplicación móvil.
+
+![](https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/Small/Diagrama.jpg)
 
 De esta forma, los Arduinos recogen los datos adquiridos por los sensores y los envían a la Raspberry mediante el puerto serie. Desde la Raspberry, ejecutando los códigos de Python, se leen los datos que recibe y se suben a una BBDD.
 
