@@ -35,13 +35,25 @@ Posteriormente, mediante un dashboard en Grafana, es posible visualizar los dato
 
 En esta carpeta se almacenan los códigos usados en el Arduino UNO y el Arduino Nano IOT 33.
 
-##### Python
+##### BBDD
 
-Estos códigos se ejecutan en la Raspberry y sirven para subir los datos recogidos por los Arduinos a la BBDD.
+En esta carpeta se encuentran los archivos realizados en MySQL Workbench para la creación de la BBDD.
+
+##### Imágenes
+
+Las imágenes del proyecto.
 
 ##### PHP
 
 En esta carpeta se alojan los códigos PHP usados para la subida y consulta de datos a la BBDD a través de la aplicación móvil.
+
+##### Python
+
+Estos códigos se ejecutan en la Raspberry y sirven para subir los datos recogidos por los Arduinos a la BBDD.
+
+##### Soporte 3D
+
+En esta carpeta se encuentran los archivos de AutoCAD con el diseño del soporte 3D para el sensor de pulsioximetría así como los planos.
 
 ---
 
