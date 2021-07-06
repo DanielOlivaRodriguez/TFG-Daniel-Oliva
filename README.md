@@ -11,11 +11,12 @@ En este Trabajo Fin de Grado se ha diseñado un dispositivo de adquisición de d
 
 En primer lugar, se investigó qué parámetros se deberían monitorizar para obtener una visión completa del estado de salud del agente de seguridad. Los parámetros seleccionados fueron las pulsaciones por minuto, saturación de oxígeno, temperatura y electrocardiograma.
 
-En segundo lugar, se diseñó el dispositivo basando su funcionamiento en 3 módulos:
+En segundo lugar, se diseñó el dispositivo basando su funcionamiento en 4 módulos:
 
 + Módulo de adquisición de datos: Este módulo está compuesto por un Arduino UNO, un Arduino Nano IOT 33 y los distintos sensores.
 + Módulo de gestión de datos: Formado por una Raspberry Pi 4 que será la que administre y almacene los datos.
 + Módulo de visualización de datos: Visualización de datos a través de un navegador web o aplicación móvil.
++ Módulo de alimentación: formado por una batería externa USB que alimenta a la Raspberry Pi 4.
 
 <p algin="center">
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/Diagrama.jpg">
@@ -31,27 +32,27 @@ Posteriormente, mediante un dashboard en Grafana, es posible visualizar los dato
 
 #### ORGANIZACIÓN DE LOS ARCHIVOS
 
-##### Arduino
+##### **Arduino** 
 
 En esta carpeta se almacenan los códigos usados en el Arduino UNO y el Arduino Nano IOT 33.
 
-##### BBDD
+##### **BBDD**
 
 En esta carpeta se encuentran los archivos realizados en MySQL Workbench para la creación de la BBDD.
 
-##### Imágenes
+##### **Imágenes**
 
 Las imágenes del proyecto.
 
-##### PHP
+##### **PHP**
 
 En esta carpeta se alojan los códigos PHP usados para la subida y consulta de datos a la BBDD a través de la aplicación móvil.
 
-##### Python
+##### **Python**
 
 Estos códigos se ejecutan en la Raspberry y sirven para subir los datos recogidos por los Arduinos a la BBDD.
 
-##### Soporte 3D
+##### **Soporte 3D**
 
 En esta carpeta se encuentran los archivos de AutoCAD con el diseño del soporte 3D para el sensor de pulsioximetría así como los planos.
 
