@@ -26,7 +26,7 @@ En segundo lugar, se diseñó el dispositivo basando su funcionamiento en 4 mód
 
 De esta forma, los Arduinos recogen los datos adquiridos por los sensores y los envían a la Raspberry mediante el puerto serie. Desde la Raspberry, ejecutando los códigos de Python, se leen los datos que recibe y se suben a una BBDD.
 
-Posteriormente, mediante un dashboard en Grafana, es posible visualizar los datos recogidos por el dispositivo. Además, también se puede acceder a los datos a través de la aplicación programada en Android.
+Posteriormente, mediante un *dashboard* en Grafana, es posible visualizar los datos recogidos por el dispositivo. Además, también se puede acceder a los datos a través de la aplicación programada en Android.
 
 -----
 
@@ -34,7 +34,7 @@ Posteriormente, mediante un dashboard en Grafana, es posible visualizar los dato
 
 ##### **App** 
 
-En esta carpeta se encuentra el instalado APK de la aplicación móvil así como el proyecto de Android Studio en el que se encuentra toda la programación de la aplicación.
+En esta carpeta se encuentra el instalador APK de la aplicación móvil así como el proyecto de Android Studio en el que se encuentra toda la programación de la aplicación.
 
 ##### **Arduino** 
 
