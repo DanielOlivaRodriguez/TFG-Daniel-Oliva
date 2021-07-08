@@ -32,6 +32,10 @@ Posteriormente, mediante un dashboard en Grafana, es posible visualizar los dato
 
 #### ORGANIZACIÓN DE LOS ARCHIVOS
 
+##### **App** 
+
+En esta carpeta se encuentra el instalado APK de la aplicación móvil así como el proyecto de Android Studio en el que se encuentra toda la programación de la aplicación.
+
 ##### **Arduino** 
 
 En esta carpeta se almacenan los códigos usados en el Arduino UNO y el Arduino Nano IOT 33.
