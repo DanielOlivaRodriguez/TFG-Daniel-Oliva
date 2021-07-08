@@ -34,7 +34,7 @@ Posteriormente, mediante un *dashboard* en Grafana, es posible visualizar los da
 
 ##### **App** 
 
-En esta carpeta se encuentra el instalador APK de la aplicación móvil así como el proyecto de Android Studio en el que se encuentra toda la programación de la aplicación.
+En esta carpeta se encuentra el instalador APK de la aplicación móvil así como el proyecto de Android Studio contenido en un *.zip* en el que se encuentra toda la programación de la aplicación.
 
 ##### **Arduino** 
 
