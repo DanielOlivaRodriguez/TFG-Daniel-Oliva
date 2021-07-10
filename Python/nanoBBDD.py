@@ -44,7 +44,7 @@ def send_mysql(sensor_,values_):
                               database='tfg')
     cursor = cnx.cursor()
     for i in values_:
-    	query = "Insert into datos (temp,aX,aY,aZ,gX,gY,gZ,maxG,dispositivo_id) VALUES (" + values_[0] + "," + values_[1] + "," + values_[2] + "," + values_[3] + "," + values_[4] + "," + values_[5] + "," + values_[6] + "," + values_[7] + "," + values_[8] + ");"
+    	query = "Insert into datos (temp,aX,aY,aZ,gX,gY,gZ,minG,dispositivo_id) VALUES (" + values_[0] + "," + values_[1] + "," + values_[2] + "," + values_[3] + "," + values_[4] + "," + values_[5] + "," + values_[6] + "," + values_[7] + "," + values_[8] + ");"
     #print(query)
     cursor.execute(query)
     cnx.commit()
