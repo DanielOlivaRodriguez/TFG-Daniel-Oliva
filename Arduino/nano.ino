@@ -19,10 +19,8 @@ Adafruit_MAX31865 thermo = Adafruit_MAX31865(8, 9, 10, 11);
 // Se definen las variables del IMU
 float aX, aY, aZ; // Aceleración (g)
 float gX, gY, gZ; // Velocidad angular (º/s)
-float maxG; // Máxima fuerza G sufrida
-// Variables auxiliares para calcular el máximo
-float maxGAux1;
-float maxGAux2;
+float aT; // Aceleración total
+float minG; // Mínima fuerza g sufrida
 
 //Variables del sensor de temperatura
 float ratio;
@@ -67,17 +65,14 @@ void loop() {
   IMU.readAcceleration(aX, aY, aZ);
   IMU.readGyroscope(gX, gY, gZ);
 
-  // Se calcula la máxima fuerza G que mide el sensor
-  maxGAux1 = max(aX,aY);          // Máximo de aX y aY
-  maxGAux2 = max(maxGAux1, aZ);   // Máximo de aX, aY y aZ
+  // Se calcula la aceleración total haciendo la raiz cuadrada de la suma al cuadrado de los componentes
+  aT = sqrt(pow(aX,2)+pow(aY,2)+pow(aZ,2));
 
-  // Si el máximo medido en esta iteración es mayor al máximo registrado anteriormente, se sobreescribe el valor
-  if (maxG < maxGAux2) {
-    maxG = maxGAux2;
-  }
+  // Se calcula la mínima fuerza g sufrida por el sensor
+  minG = min(aT,minG);
 
   // Se define la cadena para el intercambio de datos
-  cad = "#1:" + String(temp)+ "#2:" + String(aX)+ "#3:" + String(aY)+ "#4:" + String(aZ)+ "#5:" + String(gX)+ "#6:" + String(gY)+ "#7:" + String(gZ)+ "#8:" + String(maxG)+ "#9:" + String(dispositivo_id)+ "@";
+  cad = "#1:" + String(temp)+ "#2:" + String(aX)+ "#3:" + String(aY)+ "#4:" + String(aZ)+ "#5:" + String(gX)+ "#6:" + String(gY)+ "#7:" + String(gZ)+ "#8:" + String(minG)+ "#9:" + String(dispositivo_id)+ "@";
     
   // Se imrpime la cadena por el puerto serie
   Serial.println(cad);
