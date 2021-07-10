@@ -72,7 +72,7 @@ CREATE TABLE IF NOT EXISTS `tfg`.`datos_nano` (
   `gX` FLOAT NOT NULL,
   `gY` FLOAT NOT NULL,
   `gZ` FLOAT NOT NULL,
-  `maxG` FLOAT NOT NULL,
+  `minG` FLOAT NOT NULL,
   `fechaRegistro` TIMESTAMP NULL,
   `dispositivo_id` INT NOT NULL,
   PRIMARY KEY (`id_dato`))
