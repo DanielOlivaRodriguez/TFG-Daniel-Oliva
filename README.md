@@ -44,6 +44,10 @@ En esta carpeta se almacenan los códigos usados en el Arduino UNO y el Arduino 
 
 En esta carpeta se encuentran los archivos realizados en MySQL Workbench para la creación de la BBDD.
 
+##### Comité Ética
+
+En esta carpeta se encuentra el consentimiento informado que firmaron los participantes para realizar las evaluaciones.
+
 ##### **Imágenes**
 
 Las imágenes del proyecto.
@@ -55,6 +59,18 @@ En esta carpeta se alojan los códigos PHP usados para la subida y consulta de d
 ##### **Python**
 
 Estos códigos se ejecutan en la Raspberry y sirven para subir los datos recogidos por los Arduinos a la BBDD.
+
+##### Resultados
+
+En esta carpeta se encuentran los resultados de las pruebas. Además, el documento "marcas de tiempo" contiene las marcas de tiempo a la que suceden los distintos hitos. Los resultados se dividen a su vez en dos carpetas:
+
+	###### 		UNO
+
+​		Resultados de pulsioximetría y ECG.
+
+		###### 		NANO		
+
+​		Resultados de temperatura y fuerzas g.
 
 ##### **Soporte 3D**
 
