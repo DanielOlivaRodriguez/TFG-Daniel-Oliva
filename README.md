@@ -73,15 +73,30 @@ En esta carpeta se encuentran los archivos de AutoCAD con el diseño del soporte
 
 #### MATERIAL EMPLEADO
 
+El material empleado para la realización del proyecto ha sido:
 
-
-
++ Arduino UNO
++ Arduino Nano IOT 33
++ Sensor de temperatura Heraeus M222
++ Circuito amplificador Adafruit Pt1000 MAX31865
++ Sensor pulsioximetría MIKROE Heart Rate Click MAX30100
++ Sensor ECG SparkFun AD8232
++ Raspberry Pi 4
++ Batería externa USB
 
 ----------
 
 #### SOFTWARE EMPLEADO
 
+El software empleado a lo largo de todo el proyecto ha sido:
 
++ Arduino IDE: para la programación de los arduinos.
++ AutoCAD: para el diseño del soporte 3D para el sensor de pulsioximetría.
++ EAGLE PCB: para el diseño de la PCB.
++ phpMyAdmin: para la gestión y depuración de errores de la BBDD.
++ MySQL Workbench: para la creación y diseño de la BBDD.
++ Android Studio: para la programación de la aplicación móvil Android.
++ Grafana: para la creación del panel para la visualización de los resultados.
 
 ------
 
@@ -178,7 +193,7 @@ Usuario 9
 Usuario 10
 
 <p algin="center">
-    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%210.png">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ECG%2010.png">
 </p>
 
 -----
