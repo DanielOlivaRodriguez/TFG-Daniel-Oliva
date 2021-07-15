@@ -99,6 +99,10 @@ En esta carpeta se encuentran los archivos de AutoCAD con el diseño del soporte
 
 #### RESULTADOS
 
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/panel.png">
+</p>
+
 -------
 
 #### GRÁFICAS ECG
