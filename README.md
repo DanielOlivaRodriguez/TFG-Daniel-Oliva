@@ -1,5 +1,5 @@
 # TFG Daniel Oliva Rodríguez
-## *Sistema de adquisición fisiológica de los agentes de seguridad y emergencias*
+## "*Sistema de adquisición fisiológica de los agentes de seguridad y emergencias*"
 
 ### **Grado en Ingeniería en Tecnologías Industriales, Universidad Rey Juan Carlos**
 
@@ -21,8 +21,6 @@ En segundo lugar, se diseñó el dispositivo basando su funcionamiento en 4 mód
 <p algin="center">
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/Diagrama.jpg">
 </p>
-
-
 Como se puede ver en la imagen, los Arduinos recogen los datos adquiridos por los sensores y los envían a la Raspberry mediante el puerto serie. Desde la Raspberry, ejecutando los códigos de Python, se leen los datos que recibe y se suben a la BBDD. Posteriormente, mediante un *dashboard* en Grafana, es posible visualizar los datos recogidos por el dispositivo. Además, también se puede acceder a los datos a través de la aplicación programada en Android.
 
 -----
@@ -154,7 +152,7 @@ Este es el resultado final:
 
 -----
 
-#### RESULTADOS
+#### PANEL DE GRAFANA
 
 A continuación, se muestra el panel empleado para la visualización de datos en el trabajo.
 
@@ -173,6 +171,34 @@ Al ampliar el electrocardiograma, puede observarse la onda.
 <p algin="center">
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ECG%2010.png">
 </p>
+
+-----
+
+#### RESULTADOS
+
+A continuación, se muestran los resultados obtenidos durante las evaluaciones.
+
+Las evaluaciones se llevaron a cabo a lo largo de varios días en el Centro Unificado de Seguridad (CUS) de Alcorcón con la colaboración de la Jefatura de Bomberos de Alcorcón. Se tomaron datos de 10 voluntarios.
+
+Pulsaciones por minuto:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/gr%C3%A1fico%20ppm.PNG">
+</p>
+
+Saturación de oxígeno en sangre:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/gr%C3%A1fico%20saturaci%C3%B3n.PNG">
+</p>
+
+Temperatura:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/gr%C3%A1fico%20temperatura.PNG">
+</p>
+
+Las gráficas del ECG pueden verse en el siguiente apartado.
 
 -------
 
@@ -238,15 +264,5 @@ Usuario 10
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ECG%2010.png">
 </p>
 
------
-
-
-
-
-
-
-
-
-
-
+----------------
 
