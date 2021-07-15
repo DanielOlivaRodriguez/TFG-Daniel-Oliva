@@ -121,6 +121,66 @@ Al ampliar el electrocardiograma, puede observarse la onda.
 
 #### GRÁFICAS ECG
 
+Usuario 1
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%201.png">
+</p>
+
+Usuario 2
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%202.png">
+</p>
+
+Usuario 3
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%203.png">
+</p>
+
+Usuario 4
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%204.png">
+</p>
+
+Usuario 5
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%205.png">
+</p>
+
+Usuario 6
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%206.png">
+</p>
+
+Usuario 7
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%207.png">
+</p>
+
+Usuario 8
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%208.png">
+</p>
+
+Usuario 9
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%209.png">
+</p>
+
+Usuario 10
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ecg%210.png">
+</p>
+
 -----
 
 
