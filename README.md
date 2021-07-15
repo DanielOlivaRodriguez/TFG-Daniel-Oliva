@@ -136,7 +136,25 @@ Y con todos los componentes:
 
 #### DISEÑO SOPORTE 3D
 
+Se ha fabricado un soporte para colocarlo sobre el dedo del usuario y que sea más sencillo tomar los datos con el sensor de pulsioximetría.
 
+Este es el resultado final:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20montada%202.png">
+</p>
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/soporte%201.png">
+</p>
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/soporte%202.png">
+</p>
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/soporte%203.png">
+</p>
 
 -----
 
