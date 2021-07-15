@@ -180,6 +180,18 @@ A continuación, se muestran los resultados obtenidos durante las evaluaciones.
 
 Las evaluaciones se llevaron a cabo a lo largo de varios días en el Centro Unificado de Seguridad (CUS) de Alcorcón con la colaboración de la Jefatura de Bomberos de Alcorcón. Se tomaron datos de 10 voluntarios.
 
+Las evaluaciones tenían una duración aproximada de media hora y se dividían en distintos intervalos:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/tiempos.png">
+</p>
+
++ AA: tramo anterior a la activación de la alarma.
++ DA: tramo posterior a la activación de la alarma.
++ PE: intervalo de 1 minuto justo después de realizar ejercicio físico.
++ PE5: intervalo de 5 minutos posterior a la realización de ejercicio físico.
++ PE10: intervalo de 5 minutos después del intervalo anterior.
+
 Pulsaciones por minuto:
 
 <p algin="center">
