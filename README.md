@@ -112,6 +112,26 @@ El diseño de las pistas es el siguiente:
 
 Y el resultado final:
 
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20planta.png">
+</p>
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20oblicua.png">
+</p>
+
+Montada sobre el Arduino UNO:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20montada%201.png">
+</p>
+
+Con todos los componentes:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20montada%202.png">
+</p>
+
 ----
 
 #### DISEÑO SOPORTE 3D
