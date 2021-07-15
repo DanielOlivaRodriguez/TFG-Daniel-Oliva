@@ -126,7 +126,7 @@ Montada sobre el Arduino UNO:
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20montada%201.png">
 </p>
 
-Con todos los componentes:
+Y con todos los componentes:
 
 <p algin="center">
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20montada%202.png">
