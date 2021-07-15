@@ -192,6 +192,10 @@ Las evaluaciones tenían una duración aproximada de media hora y se dividían e
 + PE5: intervalo de 5 minutos posterior a la realización de ejercicio físico.
 + PE10: intervalo de 5 minutos después del intervalo anterior.
 
+Los resultados pueden encontrarse en formato excel en la carpeta Resultados.
+
+A continuación, se muestran en forma de gráfico:
+
 Pulsaciones por minuto:
 
 <p algin="center">
