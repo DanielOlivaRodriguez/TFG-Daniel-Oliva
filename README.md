@@ -114,7 +114,7 @@ En la cuarta fila se encuentra el electrocardiograma y la máxima fuerza g regis
 Al ampliar el electrocardiograma, puede observarse la onda.
 
 <p algin="center">
-    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/panel.png">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/ECG%2010.png">
 </p>
 
 -------
