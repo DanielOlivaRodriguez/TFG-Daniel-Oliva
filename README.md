@@ -99,6 +99,20 @@ En esta carpeta se encuentran los archivos de AutoCAD con el diseño del soporte
 
 #### RESULTADOS
 
+A continuación, se muestra el panel empleado para la visualización de datos en el trabajo.
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/panel.png">
+</p>
+
+En la primera fila, se encuentra la gráfica temporal de la temperatura junto con la última temperatura tomada.
+
+En la segunda y tercera fila, lo mismo que en la anterior pero para las pulsaciones por minuto y la saturación de oxígeno en sangre, respectivamente.
+
+En la cuarta fila se encuentra el electrocardiograma y la máxima fuerza g registrada por el dispositivo.
+
+Al ampliar el electrocardiograma, puede observarse la onda.
+
 <p algin="center">
     <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/panel.png">
 </p>
