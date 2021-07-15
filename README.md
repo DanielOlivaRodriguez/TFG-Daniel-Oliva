@@ -102,7 +102,15 @@ El software empleado a lo largo de todo el proyecto ha sido:
 
 #### DISEÑO PCB
 
+Para el diseño de la PCB se ha empleado el software EAGLE PCB.
 
+El diseño de las pistas es el siguiente:
+
+<p algin="center">
+    <img src="https://github.com/DanielOlivaRodriguez/TFG-Daniel-Oliva/blob/main/Im%C3%A1genes/pcb%20pistas.png">
+</p>
+
+Y el resultado final:
 
 ----
 
